@@ -20,3 +20,7 @@ h1{
     background-size: 100% ;  
     background-size: cover; 
   }
+
+a{
+  text-decoration: underline;
+}
